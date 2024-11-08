@@ -1,5 +1,5 @@
 # in progress
-# rasp_usb_camera_qt5
+# rasp_usb_camera_qt5_gstreamer
 display 1 way and 2 way USB camera <br>
 OS is Raspbian 10, linux 5.10.103-v7+ <br>
 Hardware is rasp 3B <br>
