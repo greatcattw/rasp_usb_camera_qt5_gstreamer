@@ -18,3 +18,5 @@ sudo apt update <br>
 sudo apt-get update <br>
 sudo apt-get install qt5-default <br>
 sudo apt-get install qtcreator <br>
+sudo apt-get install libqt5gst* <br>
+sudo apt-get install libgstreamer* <br>
