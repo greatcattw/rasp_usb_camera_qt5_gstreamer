@@ -8,8 +8,13 @@ This program supports 320x240. If I set as 640x480, the video is lag. I don't kn
 ![pic](pic/1.png) <br>
 <br>
 ![pic](pic/2.png) <br>
-
-# run execution file only
-sudo apt-get install 
-
+<br>
+# run executable file only
+There is nothing to apt-get install. <br>
+<br>
 # compile source file
+## Install Qt5
+sudo apt update <br>
+sudo apt-get update <br>
+sudo apt-get install qt5-default <br>
+sudo apt-get install qtcreator <br>
